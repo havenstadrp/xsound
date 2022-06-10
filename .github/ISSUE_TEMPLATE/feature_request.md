@@ -1,20 +1,20 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: Feature Request
+about: Een idee voorstellen voor Havenstad
+title: "[SUGGESTION]"
+labels: enhancement
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Heeft uw functieverzoek betrekking op een probleem? Omschrijf a.u.b.**
+Een duidelijke en beknopte beschrijving van wat het probleem is.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Beschrijf de functie die u wilt**
+Een duidelijke en beknopte beschrijving van wat u wilt dat er gebeurt. en zo gedetailleerd mogelijk hoe het naar uw mening zou functioneren. Probeer het alsjeblieft uniek te houden.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Beschrijf de alternatieven die u heeft overwogen**
+Een duidelijke en beknopte beschrijving van eventuele alternatieve oplossingen of functies die mensen in gedachten hebben voor het geval het hoofdidee niet bevalt, maar een afgeleide wel.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Aanvullende context**
+Voeg hier eventuele andere context of schermafbeeldingen over het functieverzoek toe.
